@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vociridu. I'm brand new to GitHub
 
-Game & Gamne Asset development interest me. I'm slowly learning C# and Python. 
+Game & Game Asset development interest me. I'm slowly learning C# and Python. 
 Also trying my hand at Apps and using AI as a learning tool.
 
 
